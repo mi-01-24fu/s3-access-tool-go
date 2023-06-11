@@ -1,4 +1,4 @@
-module sample
+module github.com/mi-01-24fu/s3-access-tool-go
 
 go 1.20
 
